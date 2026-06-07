@@ -241,8 +241,6 @@ for (target_word in slowa) {
 # 3. Świat grillowy ("barbecue"): Najwyższa korelacja ze słowem "back" (r=0.38),
 #    odzwierciedlająca popularne amerykańskie danie "baby back ribs" (żeberka).
 #    Widoczne cechy stylu barbecue poprzez frazy "rub", "ribs", "buffalo", "maple" oraz "sprite".
-#    Po poprawnym wczytaniu kodowania nazwa handlowa "KC Masterpiece" pojawia się już
-#    jako czyste "masterpiece" (zniknął wcześniejszy artefakt kodowania ® w postaci "<ae>").
 #
 # 4. Świat włoski ("parmesan"): Najsilniejsze powiązania z formą podania:
 #    "grated" (r=0.61) i "cheese" (r=0.55). Pozostałe słowa to esencja dań

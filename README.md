@@ -3,6 +3,6 @@ Projekt zaliczeniowy realizowany w grupie: Anna Martyniuk @AnnaMartyniuk Hanna J
 
 Hanna Jermakowicz - przygotowanie danych wejściowych, zaimplementowanie szkieletu i rdzenia kodu źródłowego. 
 
-Anna Martyniuk - formatowanie i komentowanie kodu źródłowego, opracowanie pierwszej cżeści do specyfikacji wymagań.
+Anna Martyniuk - formatowanie i komentowanie kodu źródłowego, opracowanie wprowadzenia, celów i wymagać funkcjonalnych specyfikacji wymagań.
 
 Karolina Rybak - komentowanie kodu źródłowego, eliminacja błędów programistycznych (debugging), opracowanie pełnej specyfikacji wymagań.
